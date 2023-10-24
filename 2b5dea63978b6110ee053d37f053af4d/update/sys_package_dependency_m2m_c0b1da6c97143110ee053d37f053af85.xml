@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">a80bc77de821211076da10591ad287a9</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-24 18:25:42</sys_created_on>
+        <sys_id>c0b1da6c97143110ee053d37f053af85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-24 18:25:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

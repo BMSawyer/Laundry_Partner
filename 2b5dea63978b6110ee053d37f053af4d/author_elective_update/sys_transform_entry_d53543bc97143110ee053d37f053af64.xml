@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>ignore</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_x_358539_laundry_p_equipment">953543bc97143110ee053d37f053af60</map>
+        <reference_value_field/>
+        <source_field>u_reserved_for</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_x_358539_laundry_p_equipment</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 16:49:17</sys_created_on>
+        <sys_id>d53543bc97143110ee053d37f053af64</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_reserved_for</sys_name>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+        <sys_update_name>sys_transform_entry_d53543bc97143110ee053d37f053af64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 16:49:17</sys_updated_on>
+        <target_field>reserved_for</target_field>
+        <target_table>x_358539_laundry_p_equipment</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</application>
+        <file_path/>
+        <instance_id>6ce05b95db4720d0d5c911f84896199d</instance_id>
+        <instance_name>dev107882</instance_name>
+        <name>sys_transform_entry_d53543bc97143110ee053d37f053af64</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;ignore&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="u_imp_tmpl_x_358539_laundry_p_equipment"&gt;953543bc97143110ee053d37f053af60&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_reserved_for&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_imp_tmpl_x_358539_laundry_p_equipment&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-25 16:49:17&lt;/sys_created_on&gt;&lt;sys_id&gt;d53543bc97143110ee053d37f053af64&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_reserved_for&lt;/sys_name&gt;&lt;sys_package display_value="Laundry Partner" source="x_358539_laundry_p"&gt;2b5dea63978b6110ee053d37f053af4d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Laundry Partner"&gt;2b5dea63978b6110ee053d37f053af4d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_d53543bc97143110ee053d37f053af64&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-25 16:49:17&lt;/sys_updated_on&gt;&lt;target_field&gt;reserved_for&lt;/target_field&gt;&lt;target_table&gt;x_358539_laundry_p_equipment&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1904055460</payload_hash>
+        <record_name>u_reserved_for</record_name>
+        <reverted_from/>
+        <source>ae00aa2b97c07110ee053d37f053affe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 16:49:17</sys_created_on>
+        <sys_id>913543bc97143110ee053d37f053af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1898df47dde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 16:49:17</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>993543bc8f143110be2da9f5f82ecf67</update_guid>
+        <update_guid_history>993543bc8f143110be2da9f5f82ecf67:1904055460,553543bcaf143110b93ae013a1e4e665:1403267534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 17:09:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>34cc14e16c134190935d778a4934b900</sys_id>
+        <sys_metadata>d53543bc97143110ee053d37f053af64</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reserved_for</sys_name>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+        <sys_scope_delete display_value="">177638d64a0747e991910407bac86c59</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_d53543bc97143110ee053d37f053af64</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_d53543bc97143110ee053d37f053af64">913543bc97143110ee053d37f053af68</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 17:09:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

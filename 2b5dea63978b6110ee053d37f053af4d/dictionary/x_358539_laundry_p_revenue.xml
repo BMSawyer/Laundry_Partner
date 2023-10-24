@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2828bee797cb6110ee053d37f053af8c" label="Revenue" max_length="40" name="x_358539_laundry_p_revenue" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element label="Coin weight" max_length="40" name="coin_weight" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="omit_sys_original=true" label="Revenue" max_length="20" name="revenue" type="currency"/>
+        <element attributes="encode_utf8=false" label="Store" max_length="32" name="store" reference="x_358539_laundry_p_store" type="reference"/>
+        <index name="index">
+            <element name="store"/>
+        </index>
+    </element>
+</database>
