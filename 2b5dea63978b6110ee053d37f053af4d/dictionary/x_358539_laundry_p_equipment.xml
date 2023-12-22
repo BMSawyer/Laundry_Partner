@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="53a4bae397cb6110ee053d37f053af6b" extends="alm_asset" label="Equipment" max_length="40" name="x_358539_laundry_p_equipment" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Capacity" max_length="40" name="capacity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="20 lb" sequence="0" value="20 lb"/>
+                <element inactive_on_update="false" label="30 lb" sequence="1" value="30 lb"/>
+                <element inactive_on_update="false" label="40 lb" sequence="2" value="40 lb"/>
+                <element inactive_on_update="false" label="50 lb" sequence="3" value="50 lb"/>
+                <element inactive_on_update="false" label="55 lb" sequence="4" value="55 lb"/>
+                <element inactive_on_update="false" label="60 lb" sequence="5" value="60 lb"/>
+                <element inactive_on_update="false" label="80lb" sequence="6" value="80lb"/>
+            </choice>
+        </element>
+        <element label="Date of manufacture" max_length="40" name="date_of_manufacture" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="160" name="description" type="string"/>
+        <element label="Store" max_length="32" name="store" read_only="true" reference="x_358539_laundry_p_store" type="reference"/>
+        <index name="index">
+            <element name="store"/>
+        </index>
+    </element>
+</database>

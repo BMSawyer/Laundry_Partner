@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_358539_laundry_p_revenue">x_358539_laundry_p_revenue</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-02 01:36:58</sys_created_on>
+        <sys_id>f428fee797cb6110ee053d37f053af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REV</sys_name>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+        <sys_update_name>sys_number_f428fee797cb6110ee053d37f053af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-02 01:36:58</sys_updated_on>
+    </sys_number>
+</record_update>

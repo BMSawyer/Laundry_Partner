@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d99248b2976f2110ee053d37f053af26" sys_domain="global" table="sn_ent_facility_asset" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a19248b2976f2110ee053d37f053af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_ent_facility_asset" sys_domain="global" view="Default view">ed9248b2976f2110ee053d37f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>259248b2976f2110ee053d37f053af41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="sn_ent_facility_asset" sys_domain="global" view="Default view">a59248b2976f2110ee053d37f053af3a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d59248b2976f2110ee053d37f053af31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="sn_ent_facility_asset" sys_domain="global" view="Default view">159248b2976f2110ee053d37f053af2d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e99248b2976f2110ee053d37f053af35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a59248b2976f2110ee053d37f053af44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="sn_ent_facility_asset" sys_domain="global" view="Default view">299248b2976f2110ee053d37f053af41</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>119248b2976f2110ee053d37f053af2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_facility_asset" name="sn_ent_facility_asset" sys_domain="global" view="Default view">d99248b2976f2110ee053d37f053af26</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="sn_ent_facility_asset" sys_domain="global" view="Default view">5d9248b2976f2110ee053d37f053af28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_ent_facility_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 00:59:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d99248b2976f2110ee053d37f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_ent_facility_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d99248b2976f2110ee053d37f053af26</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 00:59:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

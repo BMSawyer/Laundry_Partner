@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_agent_chat_config">
+    <sp_agent_chat_config action="DELETE">
+        <active>true</active>
+        <name>Customer Chatbot</name>
+        <order>100</order>
+        <portal>2086b814c3221200f3897bfaa2d3aea8</portal>
+        <public>false</public>
+        <roles/>
+        <server_script><![CDATA[(function($sp) {
+	return {
+		live_agent_queue: $sp.getDisplayValue('sp_chat_queue')
+		};
+})($sp);]]></server_script>
+        <sys_class_name>sp_agent_chat_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:36:20</sys_created_on>
+        <sys_id>1ffb57ac97847110ee053d37f053af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Chatbot</sys_name>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+        <sys_update_name>sp_agent_chat_config_1ffb57ac97847110ee053d37f053af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:36:20</sys_updated_on>
+    </sp_agent_chat_config>
+    <sys_translated_text action="DELETE" query="documentkey=1ffb57ac97847110ee053d37f053af22"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</application>
+        <file_path/>
+        <instance_id>6ce05b95db4720d0d5c911f84896199d</instance_id>
+        <instance_name>dev107882</instance_name>
+        <name>sp_agent_chat_config_1ffb57ac97847110ee053d37f053af22</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_agent_chat_config"&gt;&lt;sp_agent_chat_config action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;name&gt;Customer Chatbot&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;portal&gt;2086b814c3221200f3897bfaa2d3aea8&lt;/portal&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;server_script&gt;&lt;![CDATA[(function($sp) {
+	return {
+		live_agent_queue: $sp.getDisplayValue('sp_chat_queue')
+		};
+})($sp);]]&gt;&lt;/server_script&gt;&lt;sys_class_name&gt;sp_agent_chat_config&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-12 13:36:20&lt;/sys_created_on&gt;&lt;sys_id&gt;1ffb57ac97847110ee053d37f053af22&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Customer Chatbot&lt;/sys_name&gt;&lt;sys_package display_value="Laundry Partner" source="x_358539_laundry_p"&gt;2b5dea63978b6110ee053d37f053af4d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Laundry Partner"&gt;2b5dea63978b6110ee053d37f053af4d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_agent_chat_config_1ffb57ac97847110ee053d37f053af22&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-12 13:36:20&lt;/sys_updated_on&gt;&lt;/sp_agent_chat_config&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1ffb57ac97847110ee053d37f053af22"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>299300051</payload_hash>
+        <record_name>Customer Chatbot</record_name>
+        <reverted_from/>
+        <source>ab5da2ab978b6110ee053d37f053af78</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:36:20</sys_created_on>
+        <sys_id>5c6c532097c47110ee053d37f053af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894a512a360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:36:20</sys_updated_on>
+        <type>Service Portal Agent Chat Configuration</type>
+        <update_guid>906c53209ac47110b68776d95116004f</update_guid>
+        <update_guid_history>906c53209ac47110b68776d95116004f:299300051</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Customer Chatbot">76ecdf2097c47110ee053d37f053af4b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:38:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_agent_chat_config">sp_agent_chat_config</sys_db_object>
+        <sys_id>73d50eb9fb524ee3b59544b65a4ed201</sys_id>
+        <sys_metadata>1ffb57ac97847110ee053d37f053af22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Chatbot</sys_name>
+        <sys_package display_value="Laundry Partner" source="x_358539_laundry_p">2b5dea63978b6110ee053d37f053af4d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laundry Partner">2b5dea63978b6110ee053d37f053af4d</sys_scope>
+        <sys_scope_delete display_value="">177638d64a0747e991910407bac86c59</sys_scope_delete>
+        <sys_update_name>sp_agent_chat_config_1ffb57ac97847110ee053d37f053af22</sys_update_name>
+        <sys_update_version display_value="sp_agent_chat_config_1ffb57ac97847110ee053d37f053af22">5c6c532097c47110ee053d37f053af4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:38:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
